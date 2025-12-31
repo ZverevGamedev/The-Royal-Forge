@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Wall",
+  "%Name":"Floor",
   "eventList":[],
   "managed":true,
-  "name":"Wall",
+  "name":"Floor",
   "overriddenProperties":[],
   "parent":{
     "name":"Blank Pixel Game2",
     "path":"Blank Pixel Game2.yyp",
   },
-  "parentObjectId":{
-    "name":"Colission",
-    "path":"objects/Colission/Colission.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"Sprite4",
+    "path":"sprites/Sprite4/Sprite4.yy",
   },
   "spriteMaskId":null,
   "visible":true,

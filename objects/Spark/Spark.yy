@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Wall",
-  "eventList":[],
+  "%Name":"Spark",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Wall",
+  "name":"Spark",
   "overriddenProperties":[],
   "parent":{
     "name":"Blank Pixel Game2",
     "path":"Blank Pixel Game2.yyp",
   },
-  "parentObjectId":{
-    "name":"Colission",
-    "path":"objects/Colission/Colission.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
   },
   "spriteMaskId":null,
   "visible":true,

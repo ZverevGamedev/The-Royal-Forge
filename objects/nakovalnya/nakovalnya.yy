@@ -14,7 +14,10 @@
     "name":"Blank Pixel Game2",
     "path":"Blank Pixel Game2.yyp",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Colission",
+    "path":"objects/Colission/Colission.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
